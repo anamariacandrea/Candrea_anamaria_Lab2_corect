@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\LibraryModel\LibraryModel.csproj" />
+    <ProjectReference Include="..\..\lab7\LibraryModel\LibraryModel.csproj" />
   </ItemGroup>
 
 </Project>
